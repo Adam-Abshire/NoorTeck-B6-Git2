@@ -7,6 +7,7 @@ public class DemoTwo {
 		add(1, 2);
 		subtract(3, 2);
 		multiply(5, 2);
+		divide(6, 3);
 	}
 	
 	public static void add(int a, int b) {
