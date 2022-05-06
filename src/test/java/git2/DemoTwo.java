@@ -6,6 +6,7 @@ public class DemoTwo {
 		System.out.println("Git demo 2....");
 		add(1, 2);
 		subtract(3, 2);
+		multiply(5, 2);
 	}
 	
 	public static void add(int a, int b) {
